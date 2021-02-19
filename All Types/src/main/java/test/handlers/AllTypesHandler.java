@@ -15,7 +15,7 @@ public class AllTypesHandler implements DataObjectEventHandler {
 
     public void execute(DataObjectEventContext etk) throws ApplicationException {
 
-        etk.getResult().addMessage("Executing event handler from SYSTEM WORKSPACE updated");
+        etk.getResult().addMessage("Executing event handler from SYSTEM WORKSPACE updated again");
     }
 
 }
