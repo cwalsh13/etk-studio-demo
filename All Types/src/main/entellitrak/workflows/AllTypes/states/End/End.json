@@ -1,0 +1,9 @@
+{
+  "businessKey" : "object.allTypes.state.end",
+  "dataObjectBusinessKey" : "object.allTypes",
+  "description" : "End",
+  "name" : "End",
+  "type" : "EndState",
+  "x" : 0,
+  "y" : 0
+}

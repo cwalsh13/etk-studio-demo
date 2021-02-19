@@ -1,0 +1,10 @@
+{
+  "businessKey" : "bundle.allTypes.0196a768-5418-4983-9ee0-fe9892d48d95",
+  "defaultBundle" : false,
+  "description" : "Test form with all data types",
+  "locked" : false,
+  "name" : "All Types",
+  "readOnly" : false,
+  "resourceFolder" : "alltypes",
+  "versionNumber" : "1.0"
+}

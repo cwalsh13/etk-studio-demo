@@ -1,0 +1,10 @@
+{
+  "businessKey" : "script.yesnomaybeformcontrol.220ad779-490d-425c-9bf5-b867de05871b",
+  "description" : "Form control definition",
+  "handlerType" : "None",
+  "languageType" : "JAVA",
+  "name" : "YesNoMaybeFormControl",
+  "packageBusinessKey" : "package.yesnomaybe.ec810e94-524a-4a8d-a30f-1374c442ef8a",
+  "publicResource" : false,
+  "workspaceName" : "system"
+}

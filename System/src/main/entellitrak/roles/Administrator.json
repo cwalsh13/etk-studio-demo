@@ -1,0 +1,173 @@
+{
+  "businessKey" : "role.administration",
+  "dataPermissions" : [ {
+    "assignAccessLevel" : "GLOBAL_ACCESS",
+    "createAccessLevel" : "GLOBAL_ACCESS",
+    "dataElementType" : null,
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "GLOBAL_ACCESS",
+    "inboxEnabled" : true,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_CURRENCY",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_DATE",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "GLOBAL_ACCESS",
+    "dataElementType" : "C_FILE",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "GLOBAL_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "GLOBAL_ACCESS",
+    "searchingAccessLevel" : "NO_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_LONG_NUMBER",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_LONG_TEXT",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_LOOKUP",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_MULTISELECT",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_NUMBER",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_PASSWORD",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_PLUGIN",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_TEXT",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_TIMESTAMP",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "C_YESNO",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  }, {
+    "assignAccessLevel" : "NO_ACCESS",
+    "createAccessLevel" : "NO_ACCESS",
+    "dataElementType" : "ID_WORKFLOW",
+    "dataObjectType" : "T_ALL_TYPES",
+    "deleteAccessLevel" : "NO_ACCESS",
+    "inboxEnabled" : null,
+    "readAccessLevel" : "GLOBAL_ACCESS",
+    "readContentAccessLevel" : "NO_ACCESS",
+    "searchingAccessLevel" : "GLOBAL_ACCESS",
+    "updateAccessLevel" : "GLOBAL_ACCESS"
+  } ],
+  "description" : "Role with administration permissions.",
+  "name" : "Administrator",
+  "profile" : "default",
+  "systemPermissions" : [ "permission" ]
+}

@@ -1,0 +1,10 @@
+{
+  "businessKey" : "bundle.system",
+  "defaultBundle" : true,
+  "description" : "Default bundle",
+  "locked" : false,
+  "name" : "System",
+  "readOnly" : false,
+  "resourceFolder" : "system",
+  "versionNumber" : "1"
+}

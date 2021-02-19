@@ -1,0 +1,142 @@
+{
+  "businessKey" : "object.allTypes.view.allTypesDefaultView",
+  "dataObjectBusinessKey" : "object.allTypes",
+  "dataViewElements" : [ {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.currency",
+    "dataElementBusinessKey" : "object.allTypes.element.currency",
+    "description" : "Currency column.",
+    "displayOrder" : 1,
+    "displaySize" : null,
+    "label" : "Currency",
+    "multiValueDelimiter" : null,
+    "name" : "currency",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.date",
+    "dataElementBusinessKey" : "object.allTypes.element.date",
+    "description" : "Date column.",
+    "displayOrder" : 2,
+    "displaySize" : null,
+    "label" : "Date",
+    "multiValueDelimiter" : null,
+    "name" : "date",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.file",
+    "dataElementBusinessKey" : "object.allTypes.element.file",
+    "description" : "File column.",
+    "displayOrder" : 3,
+    "displaySize" : null,
+    "label" : "File",
+    "multiValueDelimiter" : null,
+    "name" : "file",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.longnumber",
+    "dataElementBusinessKey" : "object.allTypes.element.longNumber",
+    "description" : "Long Number column.",
+    "displayOrder" : 4,
+    "displaySize" : null,
+    "label" : "Long Number",
+    "multiValueDelimiter" : null,
+    "name" : "longNumber",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.longtext",
+    "dataElementBusinessKey" : "object.allTypes.element.longText",
+    "description" : "Long Text column.",
+    "displayOrder" : 5,
+    "displaySize" : null,
+    "label" : "Long Text",
+    "multiValueDelimiter" : null,
+    "name" : "longText",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.lookup",
+    "dataElementBusinessKey" : "object.allTypes.element.lookup",
+    "description" : "Lookup column.",
+    "displayOrder" : 11,
+    "displaySize" : null,
+    "label" : "Lookup",
+    "multiValueDelimiter" : null,
+    "name" : "lookup",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.multiselect",
+    "dataElementBusinessKey" : "object.allTypes.element.multiselect",
+    "description" : "Multiselect column.",
+    "displayOrder" : 12,
+    "displaySize" : null,
+    "label" : "Multiselect",
+    "multiValueDelimiter" : null,
+    "name" : "multiselect",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.number",
+    "dataElementBusinessKey" : "object.allTypes.element.number",
+    "description" : "Number column.",
+    "displayOrder" : 6,
+    "displaySize" : null,
+    "label" : "Number",
+    "multiValueDelimiter" : null,
+    "name" : "number",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.password",
+    "dataElementBusinessKey" : "object.allTypes.element.password",
+    "description" : "Password column.",
+    "displayOrder" : 7,
+    "displaySize" : null,
+    "label" : "Password",
+    "multiValueDelimiter" : null,
+    "name" : "password",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.plugin",
+    "dataElementBusinessKey" : "object.allTypes.element.plugin",
+    "description" : "Plugin column.",
+    "displayOrder" : 13,
+    "displaySize" : null,
+    "label" : "Plugin",
+    "multiValueDelimiter" : null,
+    "name" : "plugin",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.text",
+    "dataElementBusinessKey" : "object.allTypes.element.text",
+    "description" : "Text column.",
+    "displayOrder" : 8,
+    "displaySize" : null,
+    "label" : "Text",
+    "multiValueDelimiter" : null,
+    "name" : "text",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.timestamp",
+    "dataElementBusinessKey" : "object.allTypes.element.timestamp",
+    "description" : "Timestamp column.",
+    "displayOrder" : 9,
+    "displaySize" : null,
+    "label" : "Timestamp",
+    "multiValueDelimiter" : null,
+    "name" : "timestamp",
+    "responsivenessFactor" : 1
+  }, {
+    "businessKey" : "object.allTypes.view.allTypesDefaultView.element.yesno",
+    "dataElementBusinessKey" : "object.allTypes.element.yesno",
+    "description" : "YesNo column.",
+    "displayOrder" : 10,
+    "displaySize" : null,
+    "label" : "YesNo",
+    "multiValueDelimiter" : null,
+    "name" : "yesno",
+    "responsivenessFactor" : 1
+  } ],
+  "dataViewExtensions" : [ ],
+  "defaultView" : true,
+  "description" : "All Types Listing",
+  "name" : "All Types Default View",
+  "searchView" : true,
+  "text" : null,
+  "title" : "All Types Listing"
+}

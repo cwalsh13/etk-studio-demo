@@ -1,0 +1,9 @@
+{
+  "businessKey" : "object.allTypes.state.begin",
+  "dataObjectBusinessKey" : "object.allTypes",
+  "description" : "Begin",
+  "name" : "Begin",
+  "type" : "BeginState",
+  "x" : 0,
+  "y" : 0
+}

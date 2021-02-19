@@ -1,0 +1,7 @@
+{
+  "businessKey" : "plugin.yesnomaybe",
+  "className" : "test.plugins.yesnomaybe.YesNoMaybe",
+  "description" : "YesNoMaybe",
+  "name" : "YesNoMaybe",
+  "pluginType" : "Data Type"
+}

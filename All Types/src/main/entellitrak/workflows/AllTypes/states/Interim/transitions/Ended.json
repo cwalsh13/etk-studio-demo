@@ -1,0 +1,11 @@
+{
+  "businessKey" : "object.allTypes.state.interim.transition.ended",
+  "description" : "Ended",
+  "name" : "Ended",
+  "nextStateBusinessKey" : "object.allTypes.state.end",
+  "previousStateBusinessKey" : "object.allTypes.state.interim",
+  "sequenceNumber" : 1,
+  "trackingEventListeners" : [ ],
+  "transitionType" : "NEVER_TRANSITION",
+  "triggerScriptObjectBusinessKey" : null
+}

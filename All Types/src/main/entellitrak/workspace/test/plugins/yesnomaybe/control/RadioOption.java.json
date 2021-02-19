@@ -1,0 +1,10 @@
+{
+  "businessKey" : "script.radiooption.2cbb7ec9-2d71-4998-b2be-9e79f35bede5",
+  "description" : "test",
+  "handlerType" : "None",
+  "languageType" : "JAVA",
+  "name" : "RadioOption",
+  "packageBusinessKey" : "package.control.e3d410fb-e627-4e06-b5fa-583a618a32c0",
+  "publicResource" : false,
+  "workspaceName" : "system"
+}

@@ -1,0 +1,10 @@
+{
+  "businessKey" : "script.yesnomaybe.f87f480d-0214-4871-8b0b-dead51cf4370",
+  "description" : "test",
+  "handlerType" : "None",
+  "languageType" : "JAVA",
+  "name" : "YesNoMaybe",
+  "packageBusinessKey" : "package.yesnomaybe.ec810e94-524a-4a8d-a30f-1374c442ef8a",
+  "publicResource" : false,
+  "workspaceName" : "system"
+}

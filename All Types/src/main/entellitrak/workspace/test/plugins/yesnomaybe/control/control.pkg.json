@@ -1,0 +1,7 @@
+{
+  "businessKey" : "package.control.e3d410fb-e627-4e06-b5fa-583a618a32c0",
+  "name" : "control",
+  "packageType" : "Standard",
+  "parentBusinessKey" : "package.yesnomaybe.ec810e94-524a-4a8d-a30f-1374c442ef8a",
+  "workspaceName" : "system"
+}

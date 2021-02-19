@@ -1,0 +1,9 @@
+{
+  "businessKey" : "object.allTypes.state.interim",
+  "dataObjectBusinessKey" : "object.allTypes",
+  "description" : "Interim",
+  "name" : "Interim",
+  "type" : "InterimState",
+  "x" : 0,
+  "y" : 0
+}

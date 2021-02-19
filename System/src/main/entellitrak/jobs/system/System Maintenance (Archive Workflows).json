@@ -1,0 +1,14 @@
+{
+  "active" : true,
+  "businessKey" : "com.entellitrak.job.simpleArchiveSystemMaintenance",
+  "cronTriggerExpression" : "0 15 1 ? * *",
+  "cronTriggerType" : "CUSTOM",
+  "description" : "System maintenance job scheduled to be run every morning at 1:15am to archive Workflows",
+  "endDate" : null,
+  "jobType" : "etk.job.simple.workflow.archive",
+  "name" : "System Maintenance (Archive Workflows)",
+  "repeatInterval" : null,
+  "repeatUnits" : null,
+  "suspendOnError" : false,
+  "triggerType" : "CronTrigger"
+}

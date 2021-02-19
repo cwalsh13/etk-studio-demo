@@ -1,0 +1,10 @@
+{
+  "businessKey" : "script.alltypeshandler.b3d4f8f5-6950-4755-8cd1-7ec6f0a1dccb",
+  "description" : "Auto generated script object metadata file",
+  "handlerType" : "DataObjectEventHandler",
+  "languageType" : "JAVA",
+  "name" : "AllTypesHandler",
+  "packageBusinessKey" : "package.handlers.36520970-b9b3-4637-879a-ae71779999f4",
+  "publicResource" : false,
+  "workspaceName" : "system"
+}

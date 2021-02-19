@@ -1,0 +1,8 @@
+{
+  "applicationVersion" : null,
+  "beanshellEnabled" : false,
+  "businessKey" : "etk.app",
+  "description" : "Add a description for this application.",
+  "javaEnabled" : true,
+  "name" : "Rename me"
+}

@@ -1,0 +1,18 @@
+{
+  "ascendingOrder" : null,
+  "businessKey" : "lookup.allTypesUserLookup",
+  "dataObjectBusinessKey" : null,
+  "description" : "All Types User Lookup",
+  "displayDataElementBusinessKey" : null,
+  "enableCaching" : false,
+  "endDateDataElementBusinessKey" : null,
+  "keyDataElementBusinessKey" : null,
+  "lookupSourceType" : "System Object",
+  "name" : "All Types User Lookup",
+  "orderByDataElementBusinessKey" : null,
+  "scriptObjectBusinessKey" : null,
+  "startDateDataElementBusinessKey" : null,
+  "lookupDisplayFormat" : "view.cfg.lookupDefinitions.systemObject.format.userLastFirstMidName",
+  "systemObjectType" : "view.cfg.lookupDefinitions.systemObject.user.caption",
+  "valueDataElementBusinessKey" : null
+}

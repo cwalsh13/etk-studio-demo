@@ -1,0 +1,10 @@
+{
+  "businessKey" : "script.yesnomaybecontrol.a084c9c5-3b04-4ec3-b6ef-1a65e2cbedc2",
+  "description" : "test",
+  "handlerType" : "None",
+  "languageType" : "HTML",
+  "name" : "YesNoMaybeControl",
+  "packageBusinessKey" : "package.control.e3d410fb-e627-4e06-b5fa-583a618a32c0",
+  "publicResource" : false,
+  "workspaceName" : "system"
+}
